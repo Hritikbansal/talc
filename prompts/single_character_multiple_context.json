@@ -1,0 +1,602 @@
+{
+    "Elephant_0": [
+        "An elephant splashes playfully in a watering hole.",
+        "The elephant trumpets loudly, greeting its herd nearby.",
+        "The elephant and its herd march together in unison.",
+        "The elephant gently caresses a baby elephant with its trunk."
+    ],
+    "Falcon_1": [
+        "A falcon soars gracefully over rugged mountains.",
+        "The falcon swoops down, talons poised to snatch prey.",
+        "The falcon lands on a rocky perch, surveying the valley.",
+        "The falcon takes off again, disappearing into the horizon."
+    ],
+    "Dolphin_2": [
+        "Dolphins leap joyfully in the sparkling ocean waves.",
+        "The dolphins communicate with clicks and whistles underwater.",
+        "A dolphin gracefully flips in the water.",
+        "The dolphin playfully nudges its baby calf."
+    ],
+    "Tiger_3": [
+        "A tiger prowls through dense jungle undergrowth stealthily.",
+        "The tiger ambushes a deer, swift and deadly.",
+        "The tiger feasts on its fresh kill silently.",
+        "The tiger retreats into the shadows, disappearing effortlessly."
+    ],
+    "Polar Bear_4": [
+        "A polar bear navigates through a vast, icy landscape.",
+        "The polar bear hunts seals near a crack in the ice.",
+        "The polar bear feasts on its fresh catch.",
+        "The polar bear curls up for a peaceful nap."
+    ],
+    "Chimpanzee_5": [
+        "A chimpanzee swings effortlessly through the forest canopy.",
+        "The chimpanzee gathers fruit, chattering with companions.",
+        "The chimpanzee's agile fingers peel a ripe banana.",
+        "The chimpanzee shares the fruit with a baby chimp."
+    ],
+    "Eagle_6": [
+        "An eagle perches majestically atop a towering cliff.",
+        "The eagle scans the landscape, keen eyes alert for prey.",
+        "The eagle swoops down swiftly, talons poised for action.",
+        "The eagle triumphantly takes flight, a meal in its grasp."
+    ],
+    "Giraffe_7": [
+        "A giraffe stretches its long neck to reach leafy branches.",
+        "The giraffe gracefully gallops across the savannah.",
+        "The giraffe stops to admire the vibrant sunset.",
+        "The giraffe nuzzles a baby giraffe playfully."
+    ],
+    "Wolf_8": [
+        "A wolf howls at the full moon in a snowy forest.",
+        "The wolf leads its pack on a nocturnal hunt.",
+        "The wolf snarls protectively at a rival pack.",
+        "The wolf triumphantly returns with fresh meat for its pack."
+    ],
+    "Orangutan_9": [
+        "An orangutan swings from tree to tree in a lush rainforest.",
+        "The orangutan builds a nest high in the canopy for rest.",
+        "The orangutan munches on ripe fruits contentedly.",
+        "The orangutan carefully grooms its long, orange fur."
+    ],
+    "Cheetah_10": [
+        "A cheetah races across the African plains with unmatched speed.",
+        "The cheetah stalks closer to its prey, muscles tense.",
+        "The cheetah pounces effortlessly, catching its unsuspecting target.",
+        "The cheetah devours its meal with raw savagery."
+    ],
+    "Penguin_11": [
+        "Penguins waddle comically across the frozen Antarctic landscape.",
+        "The penguins huddle together for warmth against the biting cold.",
+        "A lone penguin ventures farther into the icy wilderness.",
+        "The penguin finds a hidden cave, seeking refuge inside."
+    ],
+    "Lion_12": [
+        "A lioness stalks through golden grass, eyes fixed on prey.",
+        "The lioness leads her pride in a hunt, fierce and coordinated.",
+        "The lion roars triumphantly, signaling a successful hunt.",
+        "The lion basks in the sun, surrounded by her pride."
+    ],
+    "Gorilla_13": [
+        "A gorilla beats its chest, asserting dominance in the group.",
+        "The gorilla gathers foliage to build a nest for the night.",
+        "The gorilla settles down comfortably in its leafy nest.",
+        "The gorilla drifts off to sleep under the stars."
+    ],
+    "Kangaroo_14": [
+        "Kangaroos bound effortlessly across the Australian outback.",
+        "The kangaroo grazes peacefully in the shade of eucalyptus trees.",
+        "The kangaroo pauses to admire the vast landscape.",
+        "The kangaroo hops away into the sunset, disappearing gracefully."
+    ],
+    "Rhinoceros_15": [
+        "A rhinoceros charges through the savannah, powerful and unstoppable.",
+        "The rhinoceros wallows in a mud hole to cool off.",
+        "The rhinoceros emerges from the mud, refreshed.",
+        "The rhinoceros grazes peacefully under the shade of a tree."
+    ],
+    "Hippopotamus_16": [
+        "Hippos laze in a muddy river, enjoying the warm sun.",
+        "The hippo opens its massive jaws in a territorial display.",
+        "The hippo lumbers out of the riverbank.",
+        "The hippo charges playfully in the grassy savannah."
+    ],
+    "Owl_17": [
+        "An owl silently glides through the dark night sky.",
+        "The owl swoops down to snatch a mouse with precision.",
+        "The owl perches on a branch, scanning the forest below.",
+        "The owl hoots softly, alerting its mate to the prey."
+    ],
+    "Koala_18": [
+        "Koalas nap lazily in the branches of eucalyptus trees.",
+        "The koala munches on eucalyptus leaves, its favorite snack.",
+        "The koala stretches its limbs, awakening from its nap.",
+        "The koala climbs higher, seeking more eucalyptus to eat."
+    ],
+    "Elephant_19": [
+        "An elephant splashes playfully in a muddy watering hole.",
+        "The elephant dries off, flapping its ears under the sun.",
+        "The elephant trumpets loudly, calling out to its family.",
+        "The elephant nuzzles a baby elephant gently."
+    ],
+    "Dolphin_21": [
+        "A dolphin leaps gracefully through ocean waves.",
+        "The dolphin communicates with others using intricate clicks.",
+        "The dolphin performs tricks for delighted onlookers.",
+        "The dolphin swims off, disappearing into the deep blue."
+    ],
+    "Hawk_22": [
+        "A hawk soars high above the mountain peaks.",
+        "The hawk dives swiftly, catching prey with precision.",
+        "The hawk perches on a tall tree branch.",
+        "The hawk proudly displays its catch to its young."
+    ],
+    "Lion_23": [
+        "A lioness prowls through tall savannah grasses.",
+        "The lioness shares a tender moment with her cubs.",
+        "One lion cub playfully pounces on its sibling.",
+        "The lioness watches over her cubs protectively."
+    ],
+    "Penguin_24": [
+        "A penguin waddles across a vast icy landscape.",
+        "The penguin huddles with its mate for warmth.",
+        "The penguin gazes at the endless white horizon.",
+        "The penguin snuggles closer to its mate, seeking comfort."
+    ],
+    "Horse_25": [
+        "A horse gallops freely across an open meadow.",
+        "The horse nuzzles affectionately against its owner.",
+        "The horse neighs excitedly as the owner approaches.",
+        "The horse is gently brushed and fed by the owner."
+    ],
+    "Giraffe_26": [
+        "A giraffe stretches its neck to nibble leaves from tall trees.",
+        "The giraffe towers over the savannah, surveying its domain.",
+        "The giraffe bends down to drink from a watering hole.",
+        "The giraffe gracefully gallops across the open plains."
+    ],
+    "Bear_27": [
+        "A bear fishes for salmon in a rushing river.",
+        "The bear feasts contentedly on its fresh catch.",
+        "The bear rests, basking in the warm sunlight.",
+        "The bear frolics in a lush meadow, playful and joyful."
+    ],
+    "Butterfly_28": [
+        "A butterfly flutters among vibrant flowers in a garden.",
+        "The butterfly rests delicately on a blooming rose.",
+        "The butterfly spreads its wings to catch the sunlight.",
+        "The butterfly takes flight, dancing in the gentle breeze."
+    ],
+    "Wolf_29": [
+        "A wolf howls at the moon in a dense forest.",
+        "The wolf hunts in a coordinated pack, silent and swift.",
+        "The wolf returns, sharing its kill with the pack.",
+        "The wolf nuzzles its mate, a symbol of unity."
+    ],
+    "Octopus_30": [
+        "An octopus changes color as it camouflages against coral.",
+        "The octopus gracefully maneuvers through underwater caves.",
+        "The octopus squeezes through a narrow crevice effortlessly.",
+        "The octopus curls up in a hidden alcove to rest."
+    ],
+    "Cheetah_31": [
+        "A cheetah sprints across the African plains in pursuit.",
+        "The cheetah enjoys a well-deserved rest under a shady tree.",
+        "The cheetah lazily stretches its sleek body.",
+        "The cheetah gazes out over the vast savannah."
+    ],
+    "Bee_32": [
+        "A bee buzzes busily among colorful garden blooms.",
+        "The bee returns to its hive, laden with sweet nectar.",
+        "The bee dances energetically to communicate with other bees.",
+        "The bee joins the swarm in protecting the hive."
+    ],
+    "Orangutan_34": [
+        "An orangutan swings from tree to tree in a lush jungle.",
+        "The orangutan shares fruit with its family group.",
+        "The orangutan playfully chases a butterfly through the foliage.",
+        "The orangutan snuggles with its baby under the stars."
+    ],
+    "Elephant Seal_35": [
+        "An elephant seal basks lazily on a rocky shoreline.",
+        "The elephant seal vocalizes loudly to establish dominance.",
+        "The elephant seal challenges another seal with a fierce glare.",
+        "The elephant seal triumphs, roaring victoriously by the ocean."
+    ],
+    "Salmon_36": [
+        "A salmon leaps upstream, determined to reach its spawning grounds.",
+        "The salmon spawns and then succumbs to exhaustion.",
+        "The exhausted salmon drifts downstream, a life fulfilled.",
+        "The salmon's offspring swim off into the river."
+    ],
+    "Bald Eagle_37": [
+        "A bald eagle perches majestically atop a tall pine tree.",
+        "The bald eagle swoops down to catch a fish in its talons.",
+        "The bald eagle proudly flies back to its nest.",
+        "The bald eagle feeds the fresh catch to its young."
+    ],
+    "Elephant_38": [
+        "An elephant splashes joyfully in a serene river.",
+        "The elephant gently caresses its newborn calf's trunk.",
+        "The elephant watches over its playful calf lovingly.",
+        "The elephant leads its herd through the vast savannah."
+    ],
+    "Falcon_39": [
+        "A falcon soars gracefully through a cloudless sky.",
+        "The falcon swiftly snatches a fish from a glistening stream.",
+        "The falcon perches on a tree branch, scanning its surroundings.",
+        "The falcon feasts on its fresh catch with precision."
+    ],
+    "Dolphin_40": [
+        "A dolphin leaps elegantly above the shimmering ocean waves.",
+        "The dolphin playfully nudges a beach ball with its snout.",
+        "The dolphin gracefully somersaults through the water.",
+        "The dolphin chirps happily, entertaining a crowd of onlookers."
+    ],
+    "Tiger_41": [
+        "A tiger prowls stealthily through dense jungle undergrowth.",
+        "The tiger crouches low, stalking its unsuspecting prey.",
+        "The tiger pounces with deadly precision.",
+        "The tiger drags its fresh kill into the shadows."
+    ],
+    "Owl_42": [
+        "An owl silently glides through the moonlit forest.",
+        "The owl hoots softly, signaling its mate in the darkness.",
+        "The owl's mate appears, perched on a nearby branch.",
+        "The two owls fly off together into the night sky."
+    ],
+    "Dolphin_43": [
+        "A dolphin gracefully leaps through sparkling ocean waves.",
+        "The dolphin playfully nudges a buoy with its snout.",
+        "The dolphin swims alongside a group of curious turtles.",
+        "The dolphin shows off its acrobatic skills to onlookers."
+    ],
+    "Eagle_44": [
+        "An eagle soars high above rugged mountain peaks.",
+        "The eagle swoops down, talons poised, to catch prey.",
+        "The eagle triumphantly carries its catch back to its nest.",
+        "The eagle feeds its young, their hungry cries echoing."
+    ],
+    "Bear_45": [
+        "A bear lumbers through a lush forest, sniffing the air.",
+        "The bear scratches its back against a sturdy tree trunk.",
+        "The bear sniffs out a bush full of ripe berries.",
+        "The bear settles down to feast on the sweet fruit."
+    ],
+    "Horse_46": [
+        "A horse gallops across an open field, mane flowing.",
+        "The horse drinks from a clear, babbling brook.",
+        "The horse shakes off excess water, steam rising.",
+        "The horse nuzzles a nearby foal, tenderly."
+    ],
+    "Wolf_47": [
+        "A wolf howls at the moon in a dense forest.",
+        "The wolf prowls stealthily through the underbrush, eyes gleaming.",
+        "The wolf catches a scent and follows it eagerly.",
+        "The wolf emerges victorious, holding a fresh kill."
+    ],
+    "Elephant_48": [
+        "An elephant splashes joyfully in a sparkling river.",
+        "The elephant trumpets as it sprays water playfully around.",
+        "The elephant gracefully crosses the riverbank, shaking off water.",
+        "The elephant raises its trunk, sensing something in the air."
+    ],
+    "Hawk_49": [
+        "A hawk soars gracefully over vast, rolling plains.",
+        "The hawk swoops down swiftly, seizing its prey.",
+        "The hawk perches on a tree, surveying its surroundings.",
+        "The hawk preens its feathers meticulously, basking in the sun."
+    ],
+    "Dolphin_50": [
+        "Dolphins leap in synchronized arcs under a vibrant sunset.",
+        "The dolphins communicate with intricate clicks and whistles.",
+        "A dolphin playfully nudges its companion underwater.",
+        "The dolphins race through the waves, exuding joyful energy."
+    ],
+    "Bear_51": [
+        "A bear lumbers through a dense, moss-covered forest.",
+        "The bear feasts on ripe berries, its fur gleaming.",
+        "The bear cautiously approaches a roaring river.",
+        "The bear deftly catches a leaping salmon with ease."
+    ],
+    "Penguin_52": [
+        "Penguins waddle in a comical parade across icy terrain.",
+        "The penguins huddle closely together, shielding from the biting cold.",
+        "The penguin watches as the Northern Lights dance overhead.",
+        "The penguin slides gracefully on the shimmering ice."
+    ],
+    "Lion_53": [
+        "A majestic lion roams the Serengeti, surveying its pride.",
+        "The lion hunts down a zebra with calculated precision.",
+        "The lion devours the zebra hungrily.",
+        "The lion's powerful roar echoes through the savannah."
+    ],
+    "Eagle_54": [
+        "An eagle soars high above snow-capped mountain peaks.",
+        "The eagle swoops down to catch a fish from a rushing river.",
+        "The eagle perches on a rocky cliff to rest.",
+        "The eagle spreads its wings, ready to take flight."
+    ],
+    "Dolphin_55": [
+        "A pod of dolphins playfully jumps through ocean waves.",
+        "The dolphins perform synchronized acrobatics in the sunset's glow.",
+        "The dolphins glide gracefully towards the horizon.",
+        "The dolphins vanish into the deep blue water."
+    ],
+    "Wolf_56": [
+        "A lone wolf howls under the full moon in a dense forest.",
+        "The wolf leads its pack on a stealthy nighttime hunt.",
+        "The wolf spots a deer and signals its pack.",
+        "The pack surrounds the deer, hunting as one."
+    ],
+    "Hawk_58": [
+        "A hawk perches on a branch, scanning the grasslands below.",
+        "The hawk dives swiftly, seizing a snake in its talons.",
+        "The hawk carries the snake to its nest high above.",
+        "The hawk feeds the snake to its hungry chicks."
+    ],
+    "Polar Bear_59": [
+        "A polar bear traverses icy landscapes in search of prey.",
+        "The polar bear catches a seal after a patient wait.",
+        "The polar bear feasts contentedly on its fresh catch.",
+        "The polar bear snuggles into a snow-covered den for rest."
+    ],
+    "Kangaroo_60": [
+        "A kangaroo hops across the Australian outback, joey in pouch.",
+        "The kangaroo defends its territory with powerful kicks.",
+        "The kangaroo and joey rest under a shady tree.",
+        "The kangaroo leaps gracefully to continue the journey."
+    ],
+    "Orca_62": [
+        "An orca breaches dramatically in the cold waters of the Pacific.",
+        "The orca pod works together to corral a school of fish.",
+        "The orca gracefully glides through the shimmering waves.",
+        "The orca leaps high, crashing back into the sea."
+    ],
+    "Gorilla_63": [
+        "A silverback gorilla beats its chest in dominance display.",
+        "The gorilla tenderly cares for its infant offspring.",
+        "The gorilla swings effortlessly through the lush jungle canopy.",
+        "The gorilla settles down to rest, cradling its baby."
+    ],
+    "Tiger_64": [
+        "A tiger prowls through dense jungle foliage, eyes gleaming.",
+        "The tiger ambushes a deer with lightning speed.",
+        "The tiger drags its prey into the shadows.",
+        "The tiger settles down for a satisfying meal."
+    ],
+    "Owl_65": [
+        "An owl silently glides through the moonlit forest, hunting.",
+        "The owl's sharp talons snatch a mouse from the underbrush.",
+        "The owl hoots loudly, attracting nearby owls for company.",
+        "The owls perch together, sharing their meal in peace."
+    ],
+    "Giraffe_66": [
+        "A giraffe gracefully reaches for leaves in the treetops.",
+        "The giraffe's long neck scans the horizon for predators.",
+        "The giraffe hears rustling and pricks up its ears.",
+        "The giraffe cautiously moves to a sunlit clearing."
+    ],
+    "Penguin_67": [
+        "A colony of penguins waddles across the icy Antarctic expanse.",
+        "The penguins slide into the frigid ocean, hunting for fish.",
+        "The penguin emerges from the water with a fish.",
+        "The penguin shares its catch with its chick."
+    ],
+    "Komodo Dragon_68": [
+        "A Komodo dragon stalks through the Indonesian jungle, tongue flicking.",
+        "The Komodo dragon feasts on a deer carcass with its serrated teeth.",
+        "The Komodo dragon basks in the sun lazily.",
+        "The Komodo dragon slithers away into the dense foliage."
+    ],
+    "Grizzly Bear_69": [
+        "A grizzly bear catches salmon in a rushing river.",
+        "The grizzly bear defends its territory from intruders.",
+        "The grizzly bear roams the thick forest, searching for food.",
+        "The grizzly bear finds a den to hibernate for winter."
+    ],
+    "Koala_70": [
+        "A koala sleeps peacefully in a eucalyptus tree's branches.",
+        "The koala munches on eucalyptus leaves, oblivious to its surroundings.",
+        "The koala wakes up from its nap with a stretch.",
+        "The koala climbs higher, enjoying the view from above."
+    ],
+    "Falcon_71": [
+        "A falcon dives from dizzying heights to catch its prey.",
+        "The falcon carries its catch back to its cliffside nest.",
+        "The falcon perches regally on a craggy outcrop.",
+        "The falcon spreads its wings, surveying the vast landscape."
+    ],
+    "Rhino_72": [
+        "A rhino lumbers across the African savannah, stirring up dust.",
+        "The rhino charges, horn lowered, to defend its territory.",
+        "The rhino bellows loudly, asserting dominance in the herd.",
+        "The rhino rests peacefully under the shade of a tree."
+    ],
+    "Sloth_73": [
+        "A sloth hangs lazily from a tree branch, slowly munching leaves.",
+        "The sloth moves at a glacial pace, even in danger.",
+        "The sloth stretches its long limbs leisurely.",
+        "The sloth reaches its destination with unrushed determination."
+    ],
+    "Bald Eagle_74": [
+        "A bald eagle perches majestically on a cliff overlooking a vast valley.",
+        "The bald eagle swoops down to snatch a fish from the river below.",
+        "The bald eagle proudly carries its catch back to the nest.",
+        "The bald eagle feeds the fish to its hungry chicks."
+    ],
+    "Blue Whale_75": [
+        "A blue whale breaches dramatically, spraying seawater into the air.",
+        "The blue whale dives deep, singing its haunting underwater song.",
+        "The blue whale gracefully glides through the ocean currents.",
+        "The blue whale breaches again, majestic and powerful."
+    ],
+    "Chimpanzee_76": [
+        "A chimpanzee swings effortlessly through the treetops of the jungle.",
+        "The chimpanzee grooms its companion, cementing social bonds.",
+        "The chimpanzee shares fruit with its young offspring.",
+        "The chimpanzee swings back to its cozy nest."
+    ],
+    "Octopus_77": [
+        "An octopus gracefully glides through the coral reef, changing colors.",
+        "The octopus squeezes through a narrow crevice to hide from a predator.",
+        "The octopus emerges cautiously from its hiding spot.",
+        "The octopus tentatively explores the reef, eyes alert."
+    ],
+    "Red Fox_78": [
+        "A red fox stealthily stalks its prey through the forest underbrush.",
+        "The red fox pounces, capturing a rabbit with swift precision.",
+        "The red fox feasts on its fresh catch hungrily.",
+        "The red fox curls up, satisfied, under the starlit sky."
+    ],
+    "Black Bear_79": [
+        "A black bear forages for berries in a lush forest clearing.",
+        "The black bear defends its cubs from a curious raccoon.",
+        "The black bear growls menacingly, protecting its young.",
+        "The black bear and cubs disappear into the trees."
+    ],
+    "Great White Shark_80": [
+        "A great white shark patrols the ocean depths with deadly grace.",
+        "The great white shark breaches, jaws snapping shut on a seal.",
+        "The great white shark glides through the water swiftly.",
+        "The great white shark circles its prey before attacking."
+    ],
+    "Wild Horse_81": [
+        "A wild horse gallops freely across the open plains, mane flying.",
+        "The wild horse nuzzles its newborn foal in a hidden meadow.",
+        "The wild horse prances gracefully around the meadow.",
+        "The wild horse gently teaches the foal to walk."
+    ],
+    "Snow Leopard_82": [
+        "A snow leopard blends seamlessly into its wintry mountain habitat.",
+        "The snow leopard stalks silently, eyes fixed on distant prey.",
+        "The snow leopard leaps, claws extending towards its target.",
+        "The snow leopard feasts atop a rocky outcrop, satisfied."
+    ],
+    "Platypus_83": [
+        "A platypus swims gracefully through a crystal-clear Australian stream.",
+        "The platypus digs into the riverbank, searching for insects.",
+        "The platypus emerges from the stream, wet and content.",
+        "The platypus waddles playfully through the lush Australian bush."
+    ],
+    "Hammerhead Shark_84": [
+        "A hammerhead shark patrols tropical waters with its unique silhouette.",
+        "The hammerhead shark corrals a school of fish with strategic movements.",
+        "The hammerhead shark moves swiftly through the water.",
+        "The hammerhead shark gracefully devours its catch."
+    ],
+    "Tasmanian Devil_85": [
+        "A Tasmanian devil scours the forest floor for food, emitting eerie calls.",
+        "The Tasmanian devil feasts voraciously on carrion, tearing into flesh.",
+        "The Tasmanian devil looks around, sensing danger nearby.",
+        "The Tasmanian devil sprints into a dark burrow for safety."
+    ],
+    "Arctic Fox_86": [
+        "An arctic fox blends into the snowy landscape, hunting for prey.",
+        "The arctic fox digs into the snow to uncover hidden lemmings.",
+        "The arctic fox feasts on the freshly caught lemmings.",
+        "The arctic fox curls up for a nap in the snow."
+    ],
+    "Bald Eagle_87": [
+        "A bald eagle soars gracefully over rugged mountain peaks.",
+        "The bald eagle swoops down to snatch a fish from the river.",
+        "The bald eagle perches proudly on a tree branch.",
+        "The bald eagle gazes majestically across the vast landscape."
+    ],
+    "Giant Panda_88": [
+        "A giant panda munches contentedly on bamboo in a lush forest.",
+        "The giant panda rolls playfully in a bed of leaves, carefree.",
+        "The giant panda dozes off under the shade of a tree.",
+        "The giant panda wakes up and begins to climb."
+    ],
+    "Brown Bear_89": [
+        "A brown bear fishes for salmon in a rushing Alaskan river.",
+        "The brown bear retreats to its den, hibernating through winter.",
+        "The brown bear wakes up groggily in its den.",
+        "The brown bear sniffs the air before emerging outside."
+    ],
+    "White Tiger_90": [
+        "A white tiger prowls through dense jungle foliage, eyes gleaming.",
+        "The white tiger stalks a deer with silent, predatory grace.",
+        "The white tiger pounces, its muscles rippling with power.",
+        "The white tiger savors its kill, a triumphant predator."
+    ],
+    "Ostrich_91": [
+        "An ostrich races across the African savannah, dust trailing behind.",
+        "The ostrich hides its head in the sand, seeking refuge from danger.",
+        "The ostrich emerges cautiously from the sand.",
+        "The ostrich prances joyfully across the open plains."
+    ],
+    "Bengal Tiger_92": [
+        "A Bengal tiger prowls through tall grasses, blending into its surroundings.",
+        "The Bengal tiger springs from hiding, catching a deer by surprise.",
+        "The Bengal tiger devours its fresh prey hungrily.",
+        "The Bengal tiger basks in the sun, satisfied and content."
+    ],
+    "Anaconda_93": [
+        "An anaconda slithers silently through the murky waters of the Amazon.",
+        "The anaconda coils tightly around its prey, squeezing with deadly force.",
+        "The anaconda slowly swallows its prey whole.",
+        "The anaconda rests silently, digesting its meal."
+    ],
+    "Bald Eagle_94": [
+        "A bald eagle soars majestically above rugged cliffs, scanning for prey.",
+        "The bald eagle swoops down to snatch a fish from the river below.",
+        "The bald eagle perches on a high tree branch.",
+        "The bald eagle fiercely defends its catch from competitors."
+    ],
+    "King Cobra_95": [
+        "A king cobra slithers stealthily through dense jungle foliage.",
+        "The king cobra strikes with lightning speed, injecting venom into its prey.",
+        "The king cobra coils around its motionless victim.",
+        "The king cobra savors its meal in the moonlight."
+    ],
+    "Mountain Goat_96": [
+        "A mountain goat navigates treacherous cliffs with agile grace.",
+        "The mountain goat butts heads with a rival for dominance.",
+        "The mountain goat triumphantly claims its mountaintop territory.",
+        "The mountain goat rests, surveying its domain with pride."
+    ],
+    "Red Panda_97": [
+        "A red panda nimbly climbs through the branches of a bamboo forest.",
+        "The red panda curls up in a ball, sleeping peacefully in a treetop.",
+        "The red panda wakes up to the chirping birds.",
+        "The red panda gracefully descends, foraging for food."
+    ],
+    "African Elephant_98": [
+        "An African elephant trumpets loudly, leading its herd across the savannah.",
+        "The African elephant splashes playfully in a waterhole, cooling off.",
+        "The African elephant raises its trunk, sniffing the air.",
+        "The African elephant flaps its ears, chasing away flies."
+    ],
+    "Dog_20": [
+        "A dog fetches a frisbee on a sunny beach.",
+        "The dog returns the frisbee to its owner, tail wagging.",
+        "The dog chases seagulls along the shoreline.",
+        "The dog curls up next to its owner, content."
+    ],
+    "Kangaroo_33": [
+        "A kangaroo bounds effortlessly across the Australian outback.",
+        "The kangaroo shelters its joey in its protective pouch.",
+        "The kangaroo nuzzles its joey affectionately.",
+        "The kangaroo jumps gracefully over a rugged terrain."
+    ],
+    "Elephant_57": [
+        "An elephant family peacefully grazes on the savannah plains.",
+        "The elephants trek through the jungle, trumpeting warnings.",
+        "The elephants reach a watering hole, spraying water joyfully.",
+        "The elephants rest under the shade of a massive tree."
+    ],
+    "Penguin_99": [
+        "A lone penguin slides down icy slopes in Antarctica.",
+        "The penguin waddles amid a colony, squawking joyfully.",
+        "The penguin catches a fish, gleefully devouring it.",
+        "The penguin cozies up with its chick, protective and warm."
+    ],
+    "Cheetah_61": [
+        "A cheetah streaks across the savannah, chasing down a gazelle.",
+        "The cheetah rests under an acacia tree after a successful hunt.",
+        "The cheetah stretches its powerful muscles leisurely.",
+        "The cheetah surveys the landscape with watchful eyes."
+    ]
+}

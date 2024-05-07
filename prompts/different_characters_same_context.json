@@ -1,0 +1,602 @@
+{
+    "Cat, dog, rabbit, raccoon_0": [
+        "Cat leaps onto countertop.",
+        "Dog leaps onto same countertop.",
+        "Rabbit leaps onto same countertop.",
+        "Raccoon leaps onto same countertop."
+    ],
+    "Squirrel, raccoon, chipmunk, possum_1": [
+        "Squirrel scurries across tree branch.",
+        "Raccoon scurries across same tree branch.",
+        "Chipmunk scurries across same tree branch.",
+        "Possum scurries across same tree branch."
+    ],
+    "Rabbit, deer, squirrel, chipmunk_2": [
+        "Rabbit nibbles on grass in field.",
+        "Deer nibbles on same grass in field.",
+        "Squirrel nibbles on same grass in field.",
+        "Chipmunk nibbles on same grass in field."
+    ],
+    "Sparrow, pigeon, robin, crow_3": [
+        "Sparrow perches on city wire.",
+        "Pigeon perches on same city wire.",
+        "Robin perches on same city wire.",
+        "Crow perches on same city wire."
+    ],
+    "Antelope, gazelle, wildebeest, springbok_5": [
+        "Antelope grazes on savannah grass.",
+        "Gazelle grazes on same savannah grass.",
+        "Wildebeest grazes on same savannah grass.",
+        "Springbok grazes on same savannah grass."
+    ],
+    "Butterfly, dragonfly, bumblebee, hummingbird_6": [
+        "Butterfly flutters among flowers.",
+        "Dragonfly flutters among same flowers.",
+        "Bumblebee flutters among same flowers.",
+        "Hummingbird flutters among same flowers."
+    ],
+    "Mouse, hamster, rat, gerbil_7": [
+        "Mouse scurries through kitchen.",
+        "Hamster scurries through same kitchen.",
+        "Rat scurries through same kitchen.",
+        "Gerbil scurries through same kitchen."
+    ],
+    "Octopus, squid, lobster, crab_9": [
+        "Octopus hides in coral reef.",
+        "Squid hides in same coral reef.",
+        "Lobster hides in same coral reef.",
+        "Crab hides in same coral reef."
+    ],
+    "Bee, wasp, hornet, bumblebee_10": [
+        "Bee collects nectar from flower.",
+        "Wasp collects nectar from same flower.",
+        "Hornet collects nectar from same flower.",
+        "Bumblebee collects nectar from same flower."
+    ],
+    "Horse, zebra, unicorn, donkey_15": [
+        "Horse gallops across grassland.",
+        "Zebra gallops across same grassland.",
+        "A unicorn gallops across same grassland.",
+        "A donkey gallops across the same grassland."
+    ],
+    "Koala, kangaroo, wombat, sugarglider_18": [
+        "Koala climbs eucalyptus tree.",
+        "Kangaroo climbs same eucalyptus tree.",
+        "Wombat climbs same eucalyptus tree.",
+        "Sugar glider climbs same eucalyptus tree."
+    ],
+    "Elephant, rhinoceros, hippopotamus, giraffe_19": [
+        "Elephant grazes in grassy plain.",
+        "Rhinoceros grazes in same grassy plain.",
+        "Hippopotamus grazes in same grassy plain.",
+        "Giraffe grazes in same grassy plain."
+    ],
+    "Gibbon, orangutan, Spidermonkey, chimpanzee_20": [
+        "Gibbon swings through jungle canopy.",
+        "Orangutan swings through same jungle canopy.",
+        "Spider monkey swings through same jungle canopy.",
+        "Chimpanzee swings through same jungle canopy."
+    ],
+    "Otter, beaver, muskrat, mink_21": [
+        "Otter dives into river.",
+        "Beaver dives into same river.",
+        "Muskrat dives into same river.",
+        "Mink dives into same river."
+    ],
+    "Chicken, rooster, duck, turkey_22": [
+        "Chicken pecks at ground.",
+        "Rooster pecks at same ground.",
+        "Duck pecks at same ground.",
+        "Turkey pecks at same ground."
+    ],
+    "Sheep, goat, cow, horse_23": [
+        "Sheep grazes in pasture.",
+        "Goat grazes in same pasture.",
+        "Cow grazes in same pasture.",
+        "Horse grazes in same pasture."
+    ],
+    "Flamingo, stork, heron, egret_24": [
+        "Flamingo stands in shallow water.",
+        "Stork stands in same shallow water.",
+        "A heron stands in same shallow water.",
+        "An egret stands in same shallow water."
+    ],
+    "Ostrich, emu, roadrunner, cassowary_25": [
+        "Ostrich runs across desert.",
+        "Emu runs across same desert.",
+        "A roadrunner runs across same desert.",
+        "A cassowary runs across the same desert."
+    ],
+    "Bald eagle, falcon, hawk, osprey_26": [
+        "Bald eagle soars above mountains.",
+        "Falcon soars above same mountains.",
+        "Hawk soars above same mountains.",
+        "Osprey soars above same mountains."
+    ],
+    "Chimpanzee, gorilla, Orangutan, baboon_27": [
+        "Chimpanzee swings through trees.",
+        "Gorilla swings through same trees.",
+        "Orangutan swings through same trees.",
+        "Baboon swings through same trees."
+    ],
+    "Blue jay, cardinal, Sparrow, robin_28": [
+        "Blue jay perches on garden fence.",
+        "Cardinal perches on same garden fence.",
+        "A sparrow perches on same garden fence.",
+        "A robin perches on the same garden fence."
+    ],
+    "Hedgehog, porcupine, armadillo, echidna_29": [
+        "Hedgehog curls into defensive ball.",
+        "Porcupine curls into same defensive ball.",
+        "An armadillo curls into same defensive ball.",
+        "An echidna curls into the same defensive ball."
+    ],
+    "Polar bear, grizzly bear, blackbear, brownbear_30": [
+        "Polar bear fishes at icy shore.",
+        "Grizzly bear fishes at same icy shore.",
+        "Black bear fishes at same icy shore.",
+        "Brown bear fishes at same icy shore."
+    ],
+    "Salmon, trout, catfish, sturgeon_31": [
+        "Salmon swims upstream in river.",
+        "Trout swims upstream in same river.",
+        "Catfish swims upstream in same river.",
+        "Sturgeon swims upstream in the same river."
+    ],
+    "Cheetah, lion, jaguar, panther_32": [
+        "Cheetah stalks through tall grass.",
+        "Lion stalks through same tall grass.",
+        "Jaguar stalks through same tall grass.",
+        "Panther stalks through same tall grass."
+    ],
+    "Ferret, mongoose, weasel, otter_33": [
+        "Ferret explores burrow underground.",
+        "Mongoose explores same burrow underground.",
+        "Weasel explores same burrow underground.",
+        "Otter explores same burrow underground."
+    ],
+    "Black bear, brown bear, polarbear, sunbear_35": [
+        "Black bear forages in forest.",
+        "Brown bear forages in same forest.",
+        "Polar bear forages in icy tundra.",
+        "Sun bear forages in dense tropical forest."
+    ],
+    "Kangaroo rat, jerboa, Bilby, chipmunk_36": [
+        "Kangaroo rat hops across desert sand.",
+        "Jerboa hops across same desert sand.",
+        "A bilby hops across same desert sand.",
+        "A chipmunk hops across the same desert sand."
+    ],
+    "Barn owl, snowy owl, eagleowl, tawnyowl_37": [
+        "Barn owl hunts in moonlit field.",
+        "Snowy owl hunts in same moonlit field.",
+        "Eagle owl hunts in same moonlit field.",
+        "Tawny owl hunts in same moonlit field."
+    ],
+    "Warthog, wild boar, feralpig, hog_38": [
+        "Warthog wallows in muddy puddle.",
+        "Wild boar wallows in same muddy puddle.",
+        "A feral pig wallows in same muddy puddle.",
+        "A hog wallows in same muddy puddle."
+    ],
+    "Blue whale, humpback whale, orca, dolphin_39": [
+        "Blue whale breaches ocean surface.",
+        "Humpback whale breaches same ocean surface.",
+        "Orca breaches same ocean surface.",
+        "Dolphin breaches same ocean surface."
+    ],
+    "Badger, weasel, raccoon, squirrel_40": [
+        "Badger digs burrow in forest floor.",
+        "Weasel digs burrow in same forest floor.",
+        "A raccoon digs burrow in same forest floor.",
+        "A squirrel digs burrow in the same forest floor."
+    ],
+    "Skunk, ferret, raccoon, possum_41": [
+        "Skunk scavenges in urban alley.",
+        "Ferret scavenges in same urban alley.",
+        "Raccoon scavenges in same urban alley.",
+        "Possum scavenges in same urban alley."
+    ],
+    "Marmot, ground squirrel, chipmunk, squirrel_42": [
+        "Marmot sunbathes on rocky ledge.",
+        "Ground squirrel sunbathes on same rocky ledge.",
+        "Chipmunk sunbathes on same rocky ledge.",
+        "Squirrel sunbathes on same rocky ledge."
+    ],
+    "Vulture, condor, baldeagle, peregrinefalcon_43": [
+        "Vulture circles high in sky.",
+        "Condor circles high in same sky.",
+        "A bald eagle circles high in same sky.",
+        "A peregrine falcon circles high in same sky."
+    ],
+    "Walrus, seal, polarbear, arcticfox_45": [
+        "Walrus basks on Arctic ice floe.",
+        "Seal basks on same Arctic ice floe.",
+        "A polar bear basks on same Arctic ice floe.",
+        "An arctic fox basks on same Arctic ice floe."
+    ],
+    "Ant, beetle, spider, squirrel_46": [
+        "Ant carries food across forest floor.",
+        "Beetle carries food across same forest floor.",
+        "Spider carries food across same forest floor.",
+        "Squirrel carries food across same forest floor."
+    ],
+    "Swift, swallow, sparrow, eagle_48": [
+        "Swift dives to catch insect mid-flight.",
+        "Swallow dives to catch same insect mid-flight.",
+        "Sparrow dives to catch same insect mid-flight.",
+        "Eagle dives to catch same insect mid-flight."
+    ],
+    "Chameleon, gecko, iguana, treefrog_49": [
+        "Chameleon blends into tropical foliage.",
+        "Gecko blends into same tropical foliage.",
+        "An iguana blends into same tropical foliage.",
+        "A tree frog blends into same tropical foliage."
+    ],
+    "Eagle, Hawk, Falcon, osprey_50": [
+        "Eagle soars above snow-capped peaks.",
+        "Hawk glides above same snowy peaks.",
+        "Falcon soars above same snow-capped peaks.",
+        "Osprey glides above same snowy peaks."
+    ],
+    "Rabbit, Squirrel, chipmunk, hare_51": [
+        "Rabbit nibbles on a carrot in the garden.",
+        "Squirrel munches on the same carrot in the garden.",
+        "Chipmunk nibbles on same carrot in the garden.",
+        "Hare munches on the same carrot in the garden."
+    ],
+    "Dolphin, Seal, sealion, otter_53": [
+        "Dolphin flips gracefully in the ocean.",
+        "Seal flips gracefully in the same ocean.",
+        "Sea lion flips gracefully in same ocean.",
+        "Otter flips gracefully in the same ocean."
+    ],
+    "Owl, Falcon, eagle, hawk_55": [
+        "Owl hunts silently in the moonlit forest.",
+        "Falcon hunts silently in the same moonlit forest.",
+        "Eagle hunts silently in same moonlit forest.",
+        "Hawk hunts silently in the same moonlit forest."
+    ],
+    "Penguin, Seal, otter, walrus_57": [
+        "Penguin slides gracefully on ice.",
+        "Seal slides gracefully on the same ice.",
+        "Otter slides gracefully on same ice.",
+        "Walrus slides gracefully on the same ice."
+    ],
+    "Horse, Zebra, donkey, unicorn_58": [
+        "Horse gallops across the open field.",
+        "Zebra gallops across the same open field.",
+        "A donkey gallops across same open field.",
+        "A unicorn gallops across the same open field."
+    ],
+    "Orca, Shark, humpbackwhale, dolphin_61": [
+        "Orca breaches the surface of the ocean.",
+        "Shark breaches the same surface of the ocean.",
+        "Humpback whale breaches same surface of the ocean.",
+        "Dolphin breaches the same surface of the ocean."
+    ],
+    "Giraffe, Ostrich, zebra, elephant_62": [
+        "Giraffe stretches its neck to reach leaves.",
+        "Ostrich stretches its neck to reach the same leaves.",
+        "Zebra stretches its neck to reach same leaves.",
+        "Elephant stretches its trunk to reach the same leaves."
+    ],
+    "Fox, Raccoon, squirrel, owl_63": [
+        "Fox hunts for prey in the moonlit forest.",
+        "Raccoon hunts for prey in the same moonlit forest.",
+        "Squirrel hunts for prey in same moonlit forest.",
+        "Owl hunts for prey in the same moonlit forest."
+    ],
+    "Kangaroo, Wallaby, koala, wombat_64": [
+        "Kangaroo hops across the Australian outback.",
+        "Wallaby hops across the same Australian outback.",
+        "A koala hops across same Australian outback.",
+        "A wombat hops across the same Australian outback."
+    ],
+    "Bald Eagle, Osprey, falcon, hawk_66": [
+        "Bald Eagle dives for fish in the river.",
+        "Osprey dives for fish in the same river.",
+        "Falcon dives for fish in same river.",
+        "Hawk dives for fish in the same river."
+    ],
+    "Moose, Elk, caribou, reindeer_68": [
+        "Moose grazes in the meadow.",
+        "Elk grazes in the same meadow.",
+        "Caribou grazes in same meadow.",
+        "Reindeer grazes in the same meadow."
+    ],
+    "Owl, Crow, eagle, falcon_72": [
+        "Owl perches on a branch in the moonlight.",
+        "Crow perches on the same branch in the moonlight.",
+        "An eagle perches on same branch in the moonlight.",
+        "A falcon joins the eagle on same branch."
+    ],
+    "Blue Whale, Humpback Whale, Orca, SpermWhale_75": [
+        "Blue Whale breaches the surface of the ocean.",
+        "Humpback Whale breaches the same surface.",
+        "Orca breaches same surface of the ocean.",
+        "Sperm Whale breaches the same surface."
+    ],
+    "Hippopotamus, Rhinoceros, elephant, buffalo_76": [
+        "Hippopotamus wallows in the muddy river.",
+        "Rhinoceros wallows in the same muddy river.",
+        "An elephant wallows in same muddy river.",
+        "A buffalo wallows in the same muddy river."
+    ],
+    "Kingfisher, Heron, egret, cormorant_77": [
+        "Kingfisher dives into the stream for fish.",
+        "Heron dives into the same stream for fish.",
+        "Egret dives into same stream for fish.",
+        "Cormorant dives into the same stream for fish."
+    ],
+    "Lynx, Bobcat, panther, jaguar_78": [
+        "Lynx stalks prey in the snowy forest.",
+        "Bobcat stalks prey in the same snowy forest.",
+        "Panther stalks prey in same snowy forest.",
+        "Jaguar stalks prey in the same snowy forest."
+    ],
+    "Lion, Cheetah, Jaguar, panther_82": [
+        "Lion prowls through the tall grass.",
+        "Cheetah prowls through the same tall grass.",
+        "A jaguar prowls through same tall grass.",
+        "A panther prowls through the same tall grass."
+    ],
+    "Penguin, Albatross, puffin, seagull_83": [
+        "Penguin dives into the icy water.",
+        "Albatross dives into the same icy water.",
+        "A puffin dives into same icy water.",
+        "A seagull dives into the same icy water."
+    ],
+    "Jaguar, Cougar, cheetah, leopard_84": [
+        "Jaguar roams through the dense jungle.",
+        "Cougar roams through the same jungle.",
+        "A cheetah roams through same dense jungle.",
+        "A leopard roams through the same jungle."
+    ],
+    "Meerkat, Prairie Dog, mongoose, groundsquirrel_86": [
+        "Meerkat stands guard in the desert.",
+        "Prairie Dog stands guard in the same desert.",
+        "A mongoose stands guard in same desert.",
+        "A ground squirrel stands guard in the same desert."
+    ],
+    "Rabbit, Hare, squirrel, chipmunk_88": [
+        "Rabbit burrows into the earth.",
+        "Hare burrows into the same earth.",
+        "A squirrel burrows into same earth.",
+        "A chipmunk burrows into the same earth."
+    ],
+    "Snow Leopard, Lynx, Arcticfox, whitehare_89": [
+        "Snow Leopard blends into snowy landscape.",
+        "Lynx blends into the same snowy landscape.",
+        "An Arctic fox blends into same snowy landscape.",
+        "A white hare blends into the same snowy landscape."
+    ],
+    "Puffin, Seagull, pelican, albatross_90": [
+        "Puffin dives into the ocean for fish.",
+        "Seagull dives into the same ocean for fish.",
+        "Pelican dives into same ocean for fish.",
+        "Albatross dives into the same ocean for fish."
+    ],
+    "Red Fox, Arctic Fox, greywolf, coyote_91": [
+        "Red Fox hunts in the forest.",
+        "Arctic Fox hunts in the same forest.",
+        "Grey wolf hunts in same forest.",
+        "Coyote hunts in the same forest."
+    ],
+    "Snowy Owl, Barn Owl, Eagle, Falcon_92": [
+        "Snowy Owl perches on a snow-covered branch.",
+        "Barn Owl perches on the same snow-covered branch.",
+        "Eagle perches on same snow-covered branch.",
+        "Falcon perches on the same snow-covered branch."
+    ],
+    "Swan, Goose, duck, flamingo_94": [
+        "Swan glides gracefully on the tranquil lake.",
+        "Goose glides gracefully on the same lake.",
+        "Duck glides gracefully on same tranquil lake.",
+        "Flamingo glides gracefully on the same lake."
+    ],
+    "Walrus, Seal, sealion, otter_95": [
+        "Walrus basks on the rocky shore.",
+        "Seal basks on the same rocky shore.",
+        "Sea lion basks on same rocky shore.",
+        "Otter basks on the same rocky shore."
+    ],
+    "Wombat, Armadillo, meerkat, mole_96": [
+        "Wombat digs a burrow in the ground.",
+        "Armadillo digs a burrow in the same ground.",
+        "A meerkat digs a burrow in same ground.",
+        "A mole digs a burrow in the same ground."
+    ],
+    "Zebra, Wildebeest, gazelle, antelope_97": [
+        "Zebra grazes on the open savanna.",
+        "Wildebeest grazes on the same savanna.",
+        "Gazelle grazes on same open savanna.",
+        "Antelope grazes on the same savanna."
+    ],
+    "Flamingo, Pelican, stork, heron_98": [
+        "Flamingo wades in the shallow water.",
+        "Pelican wades in the same shallow water.",
+        "A stork wades in same shallow water.",
+        "A heron wades in the same shallow water."
+    ],
+    "Fox, Coyote, wolf, jackal_99": [
+        "Fox hunts for prey in the moonlit forest.",
+        "Coyote hunts for prey in the same moonlit forest.",
+        "A wolf hunts for prey in same moonlit forest.",
+        "A jackal hunts for prey in the same moonlit forest."
+    ],
+    "Frog, turtle, Duck, Swan_4": [
+        "Frog hops into pond.",
+        "Turtle crawls into same pond.",
+        "A duck dives into same pond.",
+        "A swan gracefully glides into same pond."
+    ],
+    "Owl, hawk, falcon, eagle_8": [
+        "Owl swoops from tree branch.",
+        "Hawk swoops from same tree branch.",
+        "A falcon swoops from same tree branch.",
+        "An eagle swoops from the same tree branch."
+    ],
+    "Fox, coyote, wolf, jackal_11": [
+        "Fox prowls through forest.",
+        "Coyote prowls through same forest.",
+        "Wolf prowls through same forest.",
+        "Jackal prowls through same forest."
+    ],
+    "Crow, raven, Magpie, Jay_13": [
+        "Crow lands on fence post.",
+        "Raven lands on same fence post.",
+        "A magpie lands on same fence post.",
+        "A jay lands on the same fence post."
+    ],
+    "Dolphin, shark, Orca, BlueWhale_14": [
+        "Dolphin breaches ocean surface.",
+        "Shark breaches same ocean surface.",
+        "Orca breaches same ocean surface.",
+        "Blue Whale breaches same ocean surface."
+    ],
+    "Hummingbird, parrot, Bluejay, robin_17": [
+        "Hummingbird hovers near feeder.",
+        "Parrot hovers near same feeder.",
+        "Blue jay hovers near same feeder.",
+        "Robin hovers near same feeder."
+    ],
+    "Manatee, dugong, seaturtle, manatee_44": [
+        "Manatee grazes on seagrass bed.",
+        "Dugong grazes on same seagrass bed.",
+        "Sea turtle grazes on same seagrass bed.",
+        "Manatee grazes on the same seagrass bed."
+    ],
+    "Elephant, Rhino, lion, giraffe_56": [
+        "Elephant trumpets loudly on the African plain.",
+        "Rhino trumpets loudly on the same African plain.",
+        "Lion roars loudly on the same African plain.",
+        "Giraffe bleats loudly on the same African plain."
+    ],
+    "Cheetah, Leopard, lion, tiger_60": [
+        "Cheetah sprints across the grasslands.",
+        "Leopard sprints across the same grasslands.",
+        "A lion sprints across same grasslands.",
+        "A tiger sprints across the same grasslands."
+    ],
+    "Gorilla, Chimpanzee, orangutan, baboon_65": [
+        "Gorilla beats chest in the jungle.",
+        "Chimpanzee beats chest in the same jungle.",
+        "An orangutan beats chest in same jungle.",
+        "A baboon beats chest in the same jungle."
+    ],
+    "Otter, Beaver, muskrat, mink_67": [
+        "Otter plays in the calm stream.",
+        "Beaver plays in the same calm stream.",
+        "Muskrat plays in same calm stream.",
+        "Mink plays in the same calm stream."
+    ],
+    "Hummingbird, Butterfly, dragonfly, bumblebee_69": [
+        "Hummingbird flutters among colorful flowers.",
+        "Butterfly flutters among the same colorful flowers.",
+        "Dragonfly flutters among same colorful flowers.",
+        "Bumblebee flutters among the same colorful flowers."
+    ],
+    "Antelope, Gazelle, wildebeest, springbok_70": [
+        "Antelope leaps gracefully across the plain.",
+        "Gazelle leaps gracefully across the same plain.",
+        "Wildebeest leaps gracefully across same plain.",
+        "Springbok leaps gracefully across the same plain."
+    ],
+    "Moose, Caribou, elk, reindeer_73": [
+        "Moose forages for food in the forest.",
+        "Caribou forages for food in the same forest.",
+        "An elk forages for food in same forest.",
+        "A reindeer forages for food in the same forest."
+    ],
+    "Gorilla, Orangutan, chimpanzee, baboon_74": [
+        "Gorilla swings from tree to tree.",
+        "Orangutan swings from the same trees.",
+        "A chimpanzee swings from same trees.",
+        "A baboon swings from the same trees."
+    ],
+    "Polar Bear, Arctic Fox, Snowowl, seal_79": [
+        "Polar Bear hunts on the ice floe.",
+        "Arctic Fox hunts on the same ice floe.",
+        "Snow owl hunts on same ice floe.",
+        "Seal hunts on the same ice floe."
+    ],
+    "Moose, Bison, elk, caribou_80": [
+        "Moose crosses the river in the forest.",
+        "Bison crosses the same river in the forest.",
+        "Elk crosses the river in same forest.",
+        "Caribou crosses the same river in the forest."
+    ],
+    "Panda, Red Panda, blackbear, slothbear_81": [
+        "Panda eats bamboo in the bamboo forest.",
+        "Red Panda eats bamboo in the same forest.",
+        "A black bear eats bamboo in same bamboo forest.",
+        "A sloth bear eats bamboo in the same forest."
+    ],
+    "Manta Ray, Stingray, dolphin, seal_85": [
+        "Manta Ray glides gracefully through the ocean.",
+        "Stingray glides gracefully through the same ocean.",
+        "A dolphin flips through same ocean gracefully.",
+        "A seal flips through the same ocean gracefully."
+    ],
+    "Octopus, Squid, cuttlefish, chameleon_87": [
+        "Octopus camouflages itself among rocks.",
+        "Squid camouflages itself among the same rocks.",
+        "Cuttlefish camouflages itself among same rocks.",
+        "Chameleon camouflages itself among the same rocks."
+    ],
+    "Stag, Reindeer, Elk, moose_93": [
+        "Stag grazes on the mountainside.",
+        "Reindeer grazes on the same mountainside.",
+        "Elk grazes on same mountainside.",
+        "Moose grazes on the same mountainside."
+    ],
+    "Penguin, seal, Otter, polarbear_12": [
+        "Penguin slides on icy slope.",
+        "Seal slides on same icy slope.",
+        "Otter slides on same icy slope.",
+        "Polar bear slides on same icy slope."
+    ],
+    "Wolverine, lynx, cougar, bobcat_47": [
+        "Wolverine prowls through snowy woods.",
+        "Lynx prowls through same snowy woods.",
+        "A cougar prowls through same snowy woods.",
+        "A bobcat prowls through the same snowy woods."
+    ],
+    "Wolf, Coyote, fox, jackal_54": [
+        "Wolf howls at the moon in the forest.",
+        "Coyote howls at the same moon in the forest.",
+        "A fox howls at same moon in the forest.",
+        "A jackal howls at the same moon in the forest."
+    ],
+    "Koala, Sloth, lemur, monkey_71": [
+        "Koala sleeps in the eucalyptus tree.",
+        "Sloth sleeps in the same eucalyptus tree.",
+        "Lemur sleeps on the branch of same eucalyptus tree.",
+        "Monkey sleeps on the same branch of the eucalyptus tree."
+    ],
+    "Chipmunk, groundhog, squirrel, rabbit_16": [
+        "Chipmunk digs in garden.",
+        "Groundhog digs in same garden.",
+        "Squirrel digs in same garden.",
+        "Rabbit digs in same garden."
+    ],
+    "Puffin, albatross, pelican, seagull_34": [
+        "Puffin dives into ocean for fish.",
+        "Albatross dives into same ocean for fish.",
+        "Pelican dives into same ocean for fish.",
+        "Seagull dives into the same ocean for fish."
+    ],
+    "Lion, Tiger, cheetah, leopard_52": [
+        "Lion lounges in the savanna under the sun.",
+        "Tiger rests in the same savanna under the sun.",
+        "A cheetah lounges in same savanna under the sun.",
+        "A leopard rests in the same savanna under the sun."
+    ],
+    "Bear, Wolverine, otter, seal_59": [
+        "Bear fishes in the rushing river.",
+        "Wolverine fishes in the same rushing river.",
+        "An otter fishes in same rushing river.",
+        "A seal fishes in the same rushing river."
+    ]
+}

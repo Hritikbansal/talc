@@ -1,0 +1,5 @@
+[default]
+entity = mint-adobe
+project = text2video-fine-tune
+base_url = https://api.wandb.ai
+

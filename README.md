@@ -1,6 +1,6 @@
 # TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation
 
-[[Paper]]()  [[Website]](https://talc-mst2v.github.io) [[Dataset]](https://huggingface.co/datasets/hbXNov/multi_scene_video_text_data/tree/main)   [[Checkpoint]](https://huggingface.co/hbXNov/talc_finetuned_modelscope_t2v)
+[[Paper]](https://arxiv.org/abs/2405.04682)  [[Website]](https://talc-mst2v.github.io) [[Dataset]](https://huggingface.co/datasets/hbXNov/multi_scene_video_text_data/tree/main)   [[Checkpoint]](https://huggingface.co/hbXNov/talc_finetuned_modelscope_t2v)
 
 <h1 align="center"><img src="talc_method.png" width="100%"></h1>
 
